@@ -4,7 +4,7 @@ Last year, 2019, I began using Google Map API, mainly to caculate actual travel 
  
 The data mechanism is just simple, like you, as a non-tech person, put your origin address and destination address in Google map to figure out how long it will take and which train and bus you should take after walking how many minutes. However, thanks to API, I don't need to type in that pair of addresses, so I can easily obtain travel time data for multiple pairs.  
 
-First, I will show some [codes](#heading4Initial) to run API and store the extracted data.
+First, I will show some [codes](#heading4initial) to run API and store the extracted data.
 
 Then, I will do some data analyses taking advantage of that travel time data.
 
@@ -23,7 +23,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
 
-#heading4Initial
+#heading4initial
 why?
 
 
